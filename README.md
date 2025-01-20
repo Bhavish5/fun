@@ -1,2 +1,2 @@
 # fun
-This is a fun repo
+This is a fun java repo
